@@ -1,0 +1,218 @@
+{
+ "checked_at": 1795081246,
+ "sites": [
+  {
+   "name": "Flame Comics",
+   "url": "https://flamecomics.xyz",
+   "lang": "EN",
+   "tags": [
+    "Scans",
+    "Manhwa"
+   ],
+   "status": "up",
+   "code": 200,
+   "ms": 1307,
+   "detail": "",
+   "final_url": "https://flamecomics.xyz"
+  },
+  {
+   "name": "Reaper Scans",
+   "url": "https://reaperscans.com",
+   "lang": "EN",
+   "tags": [
+    "Scans",
+    "Manhwa"
+   ],
+   "status": "down",
+   "code": null,
+   "ms": 9267,
+   "detail": "Délai dépassé",
+   "final_url": "https://reaperscans.com"
+  },
+  {
+   "name": "Asura Scans",
+   "url": "https://asuracomic.net",
+   "lang": "EN",
+   "tags": [
+    "Scans",
+    "Manhwa"
+   ],
+   "status": "up",
+   "code": 200,
+   "ms": 1476,
+   "detail": "Redirige vers asurascans.com",
+   "final_url": "https://asurascans.com/"
+  },
+  {
+   "name": "Night Scans",
+   "url": "https://nightsup.net",
+   "lang": "EN",
+   "tags": [
+    "Scans"
+   ],
+   "status": "up",
+   "code": 200,
+   "ms": 1917,
+   "detail": "Redirige vers qimanga.com",
+   "final_url": "https://qimanga.com/"
+  },
+  {
+   "name": "Hive Scans",
+   "url": "https://hivetoons.org",
+   "lang": "EN",
+   "tags": [
+    "Scans"
+   ],
+   "status": "up",
+   "code": 200,
+   "ms": 1348,
+   "detail": "",
+   "final_url": "https://hivetoons.org"
+  },
+  {
+   "name": "Kun Manga",
+   "url": "https://kunmanga.com",
+   "lang": "EN",
+   "tags": [
+    "Agrégateur"
+   ],
+   "status": "up",
+   "code": 403,
+   "ms": 1324,
+   "detail": "Protégé (Cloudflare)",
+   "final_url": "https://kunmanga.com"
+  },
+  {
+   "name": "MangaDex",
+   "url": "https://mangadex.org",
+   "lang": "EN",
+   "tags": [
+    "Agrégateur"
+   ],
+   "status": "up",
+   "code": 200,
+   "ms": 1654,
+   "detail": "",
+   "final_url": "https://mangadex.org/edge/challenge?src=Lw"
+  },
+  {
+   "name": "Manganato",
+   "url": "https://www.natomanga.com",
+   "lang": "EN",
+   "tags": [
+    "Agrégateur"
+   ],
+   "status": "up",
+   "code": 200,
+   "ms": 1577,
+   "detail": "Redirige vers www.natumanga.com",
+   "final_url": "https://www.natumanga.com/"
+  },
+  {
+   "name": "Bato.to",
+   "url": "https://bato.to",
+   "lang": "EN",
+   "tags": [
+    "Agrégateur"
+   ],
+   "status": "down",
+   "code": 200,
+   "ms": 1573,
+   "detail": "Saisi (anti-piratage)",
+   "final_url": "https://coda-cj.jp/closed.html?from=bato.to"
+  },
+  {
+   "name": "Webtoon",
+   "url": "https://www.webtoons.com",
+   "lang": "EN",
+   "tags": [
+    "Officiel"
+   ],
+   "status": "up",
+   "code": 200,
+   "ms": 4465,
+   "detail": "Redirige vers m.webtoons.com",
+   "final_url": "https://m.webtoons.com/en/"
+  },
+  {
+   "name": "Tapas",
+   "url": "https://tapas.io",
+   "lang": "EN",
+   "tags": [
+    "Officiel"
+   ],
+   "status": "up",
+   "code": 200,
+   "ms": 2602,
+   "detail": "Redirige vers m.tapas.io",
+   "final_url": "https://m.tapas.io/"
+  },
+  {
+   "name": "Lezhin",
+   "url": "https://www.lezhinus.com",
+   "lang": "EN",
+   "tags": [
+    "Officiel"
+   ],
+   "status": "up",
+   "code": 200,
+   "ms": 3991,
+   "detail": "",
+   "final_url": "https://www.lezhinus.com/en"
+  },
+  {
+   "name": "Drake Scans",
+   "url": "https://drakecomic.org",
+   "lang": "EN",
+   "tags": [
+    "Scans",
+    "Manhwa"
+   ],
+   "status": "up",
+   "code": 200,
+   "ms": 1562,
+   "detail": "Redirige vers drakecomic.net",
+   "final_url": "https://drakecomic.net/"
+  },
+  {
+   "name": "Luminous Scans",
+   "url": "https://luminouscomics.org",
+   "lang": "EN",
+   "tags": [
+    "Scans",
+    "Manhwa"
+   ],
+   "status": "up",
+   "code": 200,
+   "ms": 2772,
+   "detail": "",
+   "final_url": "https://luminouscomics.org"
+  },
+  {
+   "name": "Manhuaplus",
+   "url": "https://manhuaplus.com",
+   "lang": "EN",
+   "tags": [
+    "Agrégateur"
+   ],
+   "status": "up",
+   "code": 200,
+   "ms": 2105,
+   "detail": "",
+   "final_url": "https://manhuaplus.com"
+  },
+  {
+   "name": "Mangakakalot",
+   "url": "https://www.mangakakalot.gg",
+   "lang": "EN",
+   "tags": [
+    "Agrégateur"
+   ],
+   "status": "up",
+   "code": 200,
+   "ms": 1598,
+   "detail": "Redirige vers www.katamanga.com",
+   "final_url": "https://www.katamanga.com/"
+  }
+ ]
+}
