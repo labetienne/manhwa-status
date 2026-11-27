@@ -1,5 +1,5 @@
 {
- "checked_at": 1795816023,
+ "checked_at": 1795819723,
  "sites": [
   {
    "name": "Flame Comics",
@@ -11,7 +11,7 @@
    ],
    "status": "up",
    "code": 200,
-   "ms": 192,
+   "ms": 332,
    "detail": "",
    "final_url": "https://flamecomics.xyz"
   },
@@ -23,10 +23,10 @@
     "Scans",
     "Manhwa"
    ],
-   "status": "up",
-   "code": 403,
-   "ms": 94,
-   "detail": "Protégé (Cloudflare)",
+   "status": "down",
+   "code": null,
+   "ms": 8110,
+   "detail": "Délai dépassé",
    "final_url": "https://reaperscans.com"
   },
   {
@@ -39,7 +39,7 @@
    ],
    "status": "up",
    "code": 200,
-   "ms": 150,
+   "ms": 341,
    "detail": "Redirige vers asurascans.com",
    "final_url": "https://asurascans.com/"
   },
@@ -52,7 +52,7 @@
    ],
    "status": "up",
    "code": 200,
-   "ms": 909,
+   "ms": 260,
    "detail": "Redirige vers qimanga.com",
    "final_url": "https://qimanga.com/"
   },
@@ -65,7 +65,7 @@
    ],
    "status": "up",
    "code": 200,
-   "ms": 722,
+   "ms": 613,
    "detail": "",
    "final_url": "https://hivetoons.org"
   },
@@ -78,7 +78,7 @@
    ],
    "status": "up",
    "code": 200,
-   "ms": 840,
+   "ms": 564,
    "detail": "Redirige vers manhuatop.org",
    "final_url": "https://manhuatop.org/kunmanga-down-top-best-kunmanga-alternatives-you-should-try-104034/"
   },
@@ -91,7 +91,7 @@
    ],
    "status": "up",
    "code": 200,
-   "ms": 666,
+   "ms": 394,
    "detail": "",
    "final_url": "https://mangadex.org/edge/challenge?src=Lw"
   },
@@ -104,7 +104,7 @@
    ],
    "status": "up",
    "code": 200,
-   "ms": 114,
+   "ms": 123,
    "detail": "",
    "final_url": "https://www.natomanga.com"
   },
@@ -117,7 +117,7 @@
    ],
    "status": "down",
    "code": 200,
-   "ms": 175,
+   "ms": 160,
    "detail": "Saisi (anti-piratage)",
    "final_url": "https://coda-cj.jp/closed.html?from=bato.to"
   },
@@ -130,7 +130,7 @@
    ],
    "status": "up",
    "code": 200,
-   "ms": 2824,
+   "ms": 1692,
    "detail": "Redirige vers m.webtoons.com",
    "final_url": "https://m.webtoons.com/en/"
   },
@@ -143,7 +143,7 @@
    ],
    "status": "up",
    "code": 200,
-   "ms": 851,
+   "ms": 261,
    "detail": "Redirige vers m.tapas.io",
    "final_url": "https://m.tapas.io/"
   },
@@ -156,7 +156,7 @@
    ],
    "status": "up",
    "code": 200,
-   "ms": 1297,
+   "ms": 144,
    "detail": "",
    "final_url": "https://www.lezhinus.com/en"
   },
@@ -170,7 +170,7 @@
    ],
    "status": "up",
    "code": 200,
-   "ms": 354,
+   "ms": 1124,
    "detail": "Redirige vers drakecomic.net",
    "final_url": "https://drakecomic.net/"
   },
@@ -184,7 +184,7 @@
    ],
    "status": "up",
    "code": 200,
-   "ms": 2235,
+   "ms": 1108,
    "detail": "",
    "final_url": "https://luminouscomics.org"
   },
@@ -197,7 +197,7 @@
    ],
    "status": "up",
    "code": 200,
-   "ms": 1054,
+   "ms": 1187,
    "detail": "",
    "final_url": "https://manhuaplus.com"
   },
@@ -210,7 +210,7 @@
    ],
    "status": "up",
    "code": 200,
-   "ms": 80,
+   "ms": 564,
    "detail": "",
    "final_url": "https://www.mangakakalot.gg"
   }
